@@ -1,0 +1,29 @@
+.container{
+    background-color: aqua;
+}
+.area-komputer{
+    background-color: transparent;
+}
+.img-komputer {
+  display: block;
+  margin: 0 auto;
+}
+.info{
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-size: 100px;
+}
+
+.area-komputer {
+    height: 300px;
+}
+ul{
+ 
+    border-radius: 200px;
+}
+
+ul, li { 
+display: inline;
+height: max-content;
+}
